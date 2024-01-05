@@ -3,7 +3,7 @@
 | File | Description |
 | ---- | ---- |
 | **Code Only.txt** | Text file with Python code only |
-| **Original Code.ipynb** | Jupyter Notebook file with a preview of all the outputs |
+| **Original Code with Outputs.ipynb** | Jupyter Notebook file with a preview of all the outputs |
 | **Deck Deliverable.pdf** | A PowerPoint presentation highlighting the key results and implications of this project |
 
 
